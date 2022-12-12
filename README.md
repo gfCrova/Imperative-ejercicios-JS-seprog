@@ -6,7 +6,7 @@
 
 ### Ejercicios Módulo 2 séprogramar
 
-<ul>
+<ol>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
@@ -14,6 +14,6 @@
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
-</ul>
+</ol>
 
 <em>Gian Franco Crova</em>
